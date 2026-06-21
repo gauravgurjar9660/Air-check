@@ -1,44 +1,26 @@
-# Air-check
-A Streamlit-based web application to predict and visualize Air Quality Index (AQI) across various stations in India using historical government pollution data.
-# 🌤️ Air-check
+# Air-check 🌤️
 
-A Streamlit-based web application to predict and visualize the Air Quality Index (AQI) across various stations in India using historical government pollution data.
+A Streamlit-based web application to analyze and predict the **Air Quality Index (AQI)** across various stations in India. This project leverages historical government pollution data to provide actionable environmental insights.
 
----
+## 🚀 Key Features
+- **Real-time Visualization:** Interactive charts and graphs to track pollution trends over time.
+- **AQI Prediction:** Implemented Machine Learning models to forecast future AQI levels based on historical patterns.
+- **Station-wise Analysis:** Dynamic filtering to analyze air quality data for specific monitoring stations across India.
+- **Clean UI:** An intuitive dashboard built with **Streamlit** for seamless user experience.
 
-## 🚀 Features
-* **Real-time Visualization:** Interactive charts and graphs to analyze pollution trends.
-* **AQI Prediction:** Machine Learning models to predict future Air Quality Index based on historical data.
-* **Station-wise Analysis:** Filter and check air quality data for specific monitoring stations across India.
-* **User-Friendly Interface:** Clean and intuitive UI built entirely with Streamlit.
+## 🛠 Tech Stack
+- **Framework:** Streamlit
+- **Language:** Python
+- **Data Science:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn
 
----
+## 🧠 Technical Learning Journey
+- **API/Data Handling:** Learned to process large-scale historical environmental datasets.
+- **Predictive Modeling:** Built and trained ML models to correlate historical pollution factors with future AQI.
+- **Deployment:** Developed an end-to-end dashboard, making the data analysis accessible through a web interface.
 
-##  Tech Stack
-* **Frontend/Framework:** Streamlit
-* **Language:** Python
-* **Data Analysis & ML:** Pandas, NumPy, Scikit-learn
-* **Visualization:** Matplotlib, Seaborn
-
----
-
-# Installation & Setup
-
-
-1. Clone the Repository
-```bash
-git clone [https://github.com/gauravgurjar9660/Air-check.git](https://github.com/gauravgurjar9660/Air-check.git)
-cd Air-check
-2. Create a Virtual Environment (Optional but Recommended)
-Bash
-python -m venv env
-source env/bin/activate  # On Windows use: env\Scripts\activate
-3. Install Dependencies
-Bash
-pip install -r requirements.txt
-
-
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-
+## 💻 Installation & Setup
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/gauravgurjar9660/Air-check.git](https://github.com/gauravgurjar9660/Air-check.git)
+   cd Air-check
