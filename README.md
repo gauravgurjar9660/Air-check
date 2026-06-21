@@ -18,13 +18,12 @@ A Streamlit-based web application to predict and visualize the Air Quality Index
 * **Frontend/Framework:** Streamlit
 * **Language:** Python
 * **Data Analysis & ML:** Pandas, NumPy, Scikit-learn
-* **Visualization:** Matplotlib, Seaborn, or Plotly (jo bhi aapne use kiya ho)
+* **Visualization:** Matplotlib, Seaborn
 
 ---
 
 # Installation & Setup
 
-Apne local system par is project ko chalane ke liye niche diye gaye steps ko follow karein:
 
 1. Clone the Repository
 ```bash
